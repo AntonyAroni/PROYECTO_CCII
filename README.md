@@ -54,7 +54,7 @@ Este proyecto viene a innovar una forma de controlar estas funciones en un entor
 ## Recursos a Emplear
 
 - ### Lenguaje C + +.
-   ![Project Image](https://user-images.githubusercontent.com/82418212/173457474-a89d88b4-761c-413a-a30e-be3de50de8aa.png)
+   <img src"https://user-images.githubusercontent.com/82418212/173457474-a89d88b4-761c-413a-a30e-be3de50de8aa.png" width="" height="">
    
    
 - ### IDE Visual Studio Code,Visual Studio, CLion (preferencia)

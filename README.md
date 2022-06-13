@@ -15,7 +15,7 @@
 - [Objetivo General](#objetivo-general)
 - [Objetivos Específicos](#objetivos-específicos)
 - [Recursos a Emplear](#recursos-a-emplear)
-- [Author Info](#author-info)
+- [Colaboradores](#información-sobre-colaboradores)
 
 ---
 

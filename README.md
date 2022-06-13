@@ -54,11 +54,10 @@ Este proyecto viene a innovar una forma de controlar estas funciones en un entor
 ## Recursos a Emplear
 
 - ### Lenguaje C + +.
-   ![Project Image](https://user-images.githubusercontent.com/82418212/173453172-0a6451f8-8c3b-456b-844d-b41321245b94.png)
+   ![Project Image](https://user-images.githubusercontent.com/82418212/173457474-a89d88b4-761c-413a-a30e-be3de50de8aa.png)
    
    
 - ### IDE Visual Studio Code,Visual Studio, CLion (preferencia)
-	 ![Project Image](https://user-images.githubusercontent.com/82418212/173453514-d3cb4190-5325-4f7f-b049-e4a7cd7646d3.png)
 	 ![Project Image](https://user-images.githubusercontent.com/82418212/173453761-51a342f8-92a4-4115-8c9d-0dd63ea27381.png)
 	 ![Project Image](https://user-images.githubusercontent.com/82418212/173454119-bb9ebc01-6f63-48e5-8ee9-b504e7758905.png)
 
@@ -68,7 +67,7 @@ Este proyecto viene a innovar una forma de controlar estas funciones en un entor
 - ### Base de Datos MySQL.
 	![Project Image](https://user-images.githubusercontent.com/82418212/173454616-26be5d75-a2de-49e3-befb-76093104a1f1.png)
 - ### Interfaz Gráfica Qt.
-	![Project Image](https://user-images.githubusercontent.com/82418212/173454796-fcc7ddae-78f5-4312-9538-3d5a80bd264f.png)
+	![Project Image](https://user-images.githubusercontent.com/82418212/173457804-1eca5a49-c56c-40f4-aeab-39fc374fc545.png)
 
 
 [Regresar](#sistema-gestor-de-campos-y-torneos-deportivos)

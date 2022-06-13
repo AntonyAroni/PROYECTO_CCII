@@ -1,6 +1,9 @@
 # SISTEMA GESTOR DE CAMPOS Y TORNEOS DEPORTIVOS
 
-![Project Image](https://user-images.githubusercontent.com/82418212/173455248-261febac-fbb2-4510-96a0-c41af5be639d.jpg)
+ 
+ <p align="center">
+  <img src="https://user-images.githubusercontent.com/82418212/173455248-261febac-fbb2-4510-96a0-c41af5be639d.jpg" width="550" height="290">
+</p>
 
 > - Proyecto final del curso de Ciencia de la Computación II
 
@@ -54,21 +57,20 @@ Este proyecto viene a innovar una forma de controlar estas funciones en un entor
 ## Recursos a Emplear
 
 - ### Lenguaje C + +.
-   <img src"https://user-images.githubusercontent.com/82418212/173457474-a89d88b4-761c-413a-a30e-be3de50de8aa.png" width="" height="">
+   <img src="https://user-images.githubusercontent.com/82418212/173457474-a89d88b4-761c-413a-a30e-be3de50de8aa.png" width="250" height="200">
    
    
 - ### IDE Visual Studio Code,Visual Studio, CLion (preferencia)
-	 ![Project Image](https://user-images.githubusercontent.com/82418212/173453761-51a342f8-92a4-4115-8c9d-0dd63ea27381.png)
-	 ![Project Image](https://user-images.githubusercontent.com/82418212/173454119-bb9ebc01-6f63-48e5-8ee9-b504e7758905.png)
+	<img src="https://user-images.githubusercontent.com/82418212/173453761-51a342f8-92a4-4115-8c9d-0dd63ea27381.png" width="500" height="220">
+	<img src="https://user-images.githubusercontent.com/82418212/173454119-bb9ebc01-6f63-48e5-8ee9-b504e7758905.png" width="400" height="200">
 
 - ### Controlador de versiones (VCS) Git y GitHub.
-	 ![Project Image](https://user-images.githubusercontent.com/82418212/173454409-86c558b0-6b83-490e-b917-639d3503dc8e.jpeg)
+	<img src="https://user-images.githubusercontent.com/82418212/173454409-86c558b0-6b83-490e-b917-639d3503dc8e.jpeg" width="500" height="220">
 	 
 - ### Base de Datos MySQL.
-	![Project Image](https://user-images.githubusercontent.com/82418212/173454616-26be5d75-a2de-49e3-befb-76093104a1f1.png)
+	<img src="https://user-images.githubusercontent.com/82418212/173454616-26be5d75-a2de-49e3-befb-76093104a1f1.png" width="500" height="220">
 - ### Interfaz Gráfica Qt.
-	![Project Image](https://user-images.githubusercontent.com/82418212/173457804-1eca5a49-c56c-40f4-aeab-39fc374fc545.png)
-
+	<img src="https://user-images.githubusercontent.com/82418212/173457804-1eca5a49-c56c-40f4-aeab-39fc374fc545.png" width="240" height="220">
 
 [Regresar](#sistema-gestor-de-campos-y-torneos-deportivos)
 
@@ -88,4 +90,4 @@ Este proyecto viene a innovar una forma de controlar estas funciones en un entor
 - Tomas Cary - [@Gabrielbernall](https://user-images.githubusercontent.com/82418212/173454796-fcc7ddae-78f5-4312-9538-3d5a80bd264f.png)
 
 
-[Regresar](#sistema-gestor-de-campos-y-torneos-deportiv
+[Regresar](#sistema-gestor-de-campos-y-torneos-deportivo)

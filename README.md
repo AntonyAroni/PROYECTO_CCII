@@ -1,6 +1,6 @@
 # SISTEMA GESTOR DE CAMPOS Y TORNEOS DEPORTIVOS
 
-![Project Image](project-image-url)
+![Project Image](https://user-images.githubusercontent.com/82418212/173455248-261febac-fbb2-4510-96a0-c41af5be639d.jpg)
 
 > - Proyecto final del curso de Ciencia de la Computación II
 
@@ -54,13 +54,18 @@ Este proyecto viene a innovar una forma de controlar estas funciones en un entor
 ## Recursos a Emplear
 
 - ### Lenguaje C + +.
-   ![Project Image](project-image-url)
+   ![Project Image]((https://user-images.githubusercontent.com/82418212/173453172-0a6451f8-8c3b-456b-844d-b41321245b94.png))
+   
 - ### IDE Visual Studio Code,Visual Studio, CLion (preferencia)
-	 ![Project Image](project-image-url)
+	 ![Project Image](https://user-images.githubusercontent.com/82418212/173453514-d3cb4190-5325-4f7f-b049-e4a7cd7646d3.png)
+	 ![Project Image](https://user-images.githubusercontent.com/82418212/173453761-51a342f8-92a4-4115-8c9d-0dd63ea27381.png)
+	 ![Project Image](https://user-images.githubusercontent.com/82418212/173454119-bb9ebc01-6f63-48e5-8ee9-b504e7758905.png)
+
 - ### Controlador de versiones (VCS) Git y GitHub.
-	 ![Project Image](project-image-url)
+	 ![Project Image](https://user-images.githubusercontent.com/82418212/173454409-86c558b0-6b83-490e-b917-639d3503dc8e.jpeg)
+	 
 - ### Base de Datos MySQL.
-	![Project Image](project-image-url)
+	![Project Image](https://user-images.githubusercontent.com/82418212/173454616-26be5d75-a2de-49e3-befb-76093104a1f1.png)
 - ### Interfaz Gráfica Qt.
 	![Project Image](project-image-url)
 
@@ -80,7 +85,7 @@ Este proyecto viene a innovar una forma de controlar estas funciones en un entor
 
 - Manuel Nifla - [@AngelNifla](https://github.com/AngelNifla)
 
-- Tomas Cary - [@Gabrielbernall](https://github.com/Gabrielbernall)
+- Tomas Cary - [@Gabrielbernall](https://user-images.githubusercontent.com/82418212/173454796-fcc7ddae-78f5-4312-9538-3d5a80bd264f.png)
 
 
 [Regresar](#sistema-gestor-de-campos-y-torneos-deportiv

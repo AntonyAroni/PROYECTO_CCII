@@ -87,7 +87,7 @@ Este proyecto viene a innovar una forma de controlar estas funciones en un entor
 
 - Manuel Nifla - [@AngelNifla](https://github.com/AngelNifla)
 
-- Tomas Cary - [@Gabrielbernall](https://user-images.githubusercontent.com/82418212/173454796-fcc7ddae-78f5-4312-9538-3d5a80bd264f.png)
+- Tomas Cary -[@Gabrielbernall](https://github.com/Gabrielbernall)
 
 
 [Regresar](#sistema-gestor-de-campos-y-torneos-deportivo)

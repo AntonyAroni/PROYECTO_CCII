@@ -1,0 +1,2 @@
+D:\trabajo final\Gestor\Modelo\x64\Debug\Modelo.vcxproj.AssemblyReference.cache
+D:\trabajo final\Gestor\Modelo\x64\Debug\Modelo.vcxproj.CopyComplete

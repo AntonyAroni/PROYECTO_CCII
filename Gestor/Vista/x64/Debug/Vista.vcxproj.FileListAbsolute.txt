@@ -1,0 +1,14 @@
+D:\trabajo final\Gestor\Vista\x64\Debug\Vista.vcxproj.AssemblyReference.cache
+D:\trabajo final\Gestor\Vista\x64\Debug\Vista.vcxproj.SuggestedBindingRedirects.cache
+D:\trabajo final\Gestor\Vista\x64\Debug\Vista.Login.resources
+D:\trabajo final\Gestor\Vista\x64\Debug\Vista.vcxproj.GenerateResource.cache
+D:\trabajo final\Gestor\x64\Debug\Vista.exe.config
+D:\trabajo final\Gestor\Vista\x64\Debug\Vista.exe.config
+D:\trabajo final\Gestor\Vista\x64\Debug\Vista.vcxproj.CopyComplete
+D:\trabajo final\Gestor\Vista\x64\Debug\Vista.Administrador.resources
+D:\trabajo final\Gestor\Vista\x64\Debug\Vista.Clientes.resources
+D:\trabajo final\Gestor\Vista\x64\Debug\Vista.c_deportivos.resources
+D:\trabajo final\Gestor\Vista\x64\Debug\Vista.Reservas.resources
+D:\trabajo final\Gestor\Vista\x64\Debug\Vista.Modificar_campo.resources
+D:\trabajo final\Gestor\Vista\x64\Debug\Vista.Modificar_cliente.resources
+D:\trabajo final\Gestor\Vista\x64\Debug\Vista.Modificar_reserva.resources
